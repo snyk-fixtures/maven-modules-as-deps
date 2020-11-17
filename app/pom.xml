@@ -16,7 +16,6 @@
   <version>1.0-SNAPSHOT</version>
 
   <dependencies>
-    <!-- this dep is a module referenced by the parent -->
     <dependency>
       <groupId>io.snyk.examples.modules</groupId>
       <artifactId>core</artifactId>
